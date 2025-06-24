@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### 个人概况
+目前正在中国农业大学信息与电气工程学院攻读计算机科学与技术博士学位。
+#### 教育经理
+2022-2025 上海海洋大学，硕士研究生，农业管理
+2018-2022 上海杉达学院 学士，行政管理
 
-#### Email
-sli[at]cumt.edu.cn
+#### 研究兴趣
+研究兴趣包括量化投资和通用人工智能。
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 电子邮箱
+wuzhan2000@163.com
 
