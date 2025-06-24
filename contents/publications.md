@@ -1,12 +1,16 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- 吴展,王春晓.基于机器学习的农业水资源利用效率评价与分析[J].中国农村水利水电,2024,(09):188-195.(北大核心,第一作者)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- 吴展,王春晓.基于机器学习和夏普利加法解释（SHAP）模型的饲料原料价格可解释预测[J].饲料研究,2023,46(23):178-181.(北大核心，第一作者)
+  
+- Zhan WU.Evaluation of Provincial Economic Resilience in China Based on the TOPSIS-XGBoost-SHAP ModelJ].Journal of Mathematics,2023.(SCI，独作）
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Wu, Z.; Cha, S.; Wang, C.; Qu, T.; Zou, Z. Salmon Consumption Behavior Prediction Based on Bayesian Optimization and Explainable Artificial Intelligence. Foods 2025, 14, 429.(SCI,第一作者)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 吴展,王春晓.基于参数优化VMD与XGBoost算法的玉米蛋白粉价格预测[J].饲料研究,2024,47(13):178-183.(北大核心，第一作者)[[Paper]](DOI:10.13557/j.cnki.issn1002-2813.2024.13.033.)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 吴展,王春晓.基于集成学习的ARIMA-LSTM模型在棉粕价格预测中的应用[J].饲料研究,2025,48(02):227-231.(北大核心，第一作者)[[Paper]](DOI:10.13557/j.cnki.issn1002-2813.2025.02.041.)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- 吴展,王春晓.基于机器学习和夏普利加法解释（SHAP）模型的饲料原料价格可解释预测[J].饲料研究,2023,46(23):178-181.(北大核心，第一作者)[[Paper]](DOI:10.13557/j.cnki.issn1002-2813.2023.23.034.)
+
+- 吴展,瞿廷鸿.中国农业新质生产力发展水平测度与影响因素分析——基于XGBoost模型的经验证据[J].上海管理科学,2025,47(01):59-66.
 
